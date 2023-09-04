@@ -1,0 +1,7 @@
+name: CustomMobHandler
+version: '${project.version}'
+main: de.waifjyux.custommobhandler.Main
+api-version: 1.20
+
+commands:
+  spawn:
